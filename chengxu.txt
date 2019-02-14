@@ -1,3 +1,16 @@
+function a(x){
+	console.log(x);
+}
 cheng xu
+function b(x){
+	console.log(x);
+}
 who are you
+function c(x){
+	console.log(x);
+}
 1111
+
+nice to meet you
+
+who are you
