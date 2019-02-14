@@ -1,3 +1,4 @@
 # My first MarkDown file
 hello
-- How to learn
+- How to learn  
+:smile:
